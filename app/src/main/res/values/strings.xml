@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="str_appbar_logoDescription">Foody</string>
+    <string name="button_appbar_where">Where</string>
+    <string name="button_appbar_what">Eat what?</string>
+    <string name="text_appbar_action">Thao tác</string>
+    <string name="tmpdescrition">justImage</string>
+</resources>

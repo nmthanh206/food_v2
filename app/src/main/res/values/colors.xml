@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E53935</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#00B0FF</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="textColorMain">#606060</color>
+    <color name="textColorGrey">#A0A0A0</color>
+
+    <color name="colorBackground">#ECECEC</color>
+    <color name="colorBackgroundDark">#E5E5E5</color>
+    <color name="colorBackgroundDarker">#D3D3D3</color>
+    <color name="colorBackgroundDarkerr">#B7B7B7</color>
+
+    <color name="color_nav_icon">#424242</color>
+    <color name="colorGrey">#A0A0A0</color>
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="sermi_blur_white">#A0FFFFFF</color>
+    <color name="sermi_blur_whiter">#E0FFFFFF</color>
+
+</resources>
